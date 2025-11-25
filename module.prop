@@ -1,0 +1,7 @@
+id=fpslite
+name=FPSLite
+version=1.0
+versionCode=1
+author= Akash :)
+description=Spoof your device as CPH2653 for specific games to unlock higher FPS.
+updateJson=https://raw.githubusercontent.com/popeye0013/FPSLite/refs/heads/main/update.json
