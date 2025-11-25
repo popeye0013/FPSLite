@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Android-green.svg)
 ![Magisk](https://img.shields.io/badge/Magisk-28.0+-orange.svg)
 
-**FPSLite** - Spoof your device as different model for specific games to unlock higher FPS.
+**FPSLite** - Spoof your device as **CPH2653** for specific games to unlock higher FPS.
 
 ---
 
